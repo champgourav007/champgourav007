@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **pyhton, c, cpp, competitive programming, django(python framework)**
+- 💬 Ask me about **pyhton, c, cpp, competitive programming, django(python's framework)**
 
 - 📫 How to reach me **gouravrajput257@gmail.com**
 
